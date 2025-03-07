@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-I’m currently working on ...
 <!--
 **vakis10/vakis10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
